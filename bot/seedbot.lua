@@ -220,7 +220,7 @@ function create_config( )
     "invite",
     "all",
     "leave_ban"
-    sudo_users={@redteam_03_00},--sudo users
+    sudo_users={93016446},--sudo users
     sudo_users = {110626080,103649648,111020322,0,tonumber(our_id)},--Sudo users
     disabled_channels = {},
     moderation = {data = 'data/moderation.json'},
@@ -230,10 +230,7 @@ An advance Administration bot based on yagop/telegram-bot
 https://github.com/SEEDTEAM/TeleSeed
 
 Admins
-@iwals [Founder]
-@imandaneshi [Developer]
-@Rondoozle [Developer]
-@seyedan25 [Manager]
+@redteam_03_00 [Administor]
 
 Special thanks to
 awkward_potato
